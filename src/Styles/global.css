@@ -1,0 +1,43 @@
+:root 
+{
+    --purple-bg: #290742;
+    --dark-bg: #170027;
+    --button-bg: #9e6dc2;
+    --white: #fff;
+    --light-purple: #fbf6ff;
+    --green: #4fff4b;
+}
+
+*
+{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+
+}
+
+h1,h2
+{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 700;
+}
+
+a, p 
+{
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+  text-decoration: none;
+}
+
+main
+{
+  background:var(--purple-bg)
+}
+
+.container
+{
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  
+}

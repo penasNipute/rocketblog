@@ -1,0 +1,14 @@
+main, .content
+{
+  padding:0 2%;
+}
+
+.content
+{
+  padding-bottom: 100px;
+}
+
+.line
+{
+  border-bottom: 4px solid #4FFF4B; 
+}

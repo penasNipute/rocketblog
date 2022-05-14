@@ -1,0 +1,27 @@
+
+
+.main-content-post
+{
+  display:flex;
+  
+  flex-direction:column;
+  width:100%;
+  max-width: 569px;
+}
+
+.main-content-post .post-image
+{
+  width:100%;
+  
+}
+
+.main-content-post .post-image img
+{
+  width:100%;
+}
+
+.main-content-post .post-content
+{
+  width:100%;
+
+}

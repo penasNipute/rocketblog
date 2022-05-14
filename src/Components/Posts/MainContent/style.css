@@ -1,0 +1,35 @@
+.main-content
+{
+  display: flex;
+  gap: 110px;
+  padding: 60px 0;
+  justify-content: space-between;
+
+}
+
+h2
+{
+font-size: 1.5rem;
+line-height: 2.25rem;
+color: var(--purple-bg);
+}
+
+p{
+font-size: 1rem;
+line-height: 1.5rem;
+color: #000000;  
+}
+
+p.post-date
+{
+font-size: 1rem;
+line-height: 1.1875rem;
+padding-bottom: .5rem;
+color: #000000;
+
+}
+
+p.post-text
+{
+  padding-top: .5rem;
+}
