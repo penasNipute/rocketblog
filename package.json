@@ -1,7 +1,7 @@
 {
   "name": "rocketblog",
   "private": true,
-  "homepage": "https://penasnipute.github.io/",
+  "homepage": "https://penasnipute.github.io/rocketblog/",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
